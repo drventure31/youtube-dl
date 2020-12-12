@@ -652,6 +652,7 @@ from .motherless import (
     MotherlessIE,
     MotherlessGroupIE
 )
+from .motogp import MotogpIE
 from .motorsport import MotorsportIE
 from .movieclips import MovieClipsIE
 from .moviezine import MoviezineIE
